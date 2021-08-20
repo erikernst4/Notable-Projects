@@ -1,0 +1,7 @@
+Los ejercicios están completados pero tenemos errores, principalmente
+con paginación, que nos impiden terminar con el trabajo.
+Pudimos crear las entradas necesarias en la GDT e IDT, TSS, la lógica
+de las rutinas de atención de interrupciones (interrupciones de clock,
+teclado, syscall, excepciones, que no llegamos a debugear lo suficiente), también está la lógica del modo debug, falta un poco de la parte de imprimir en pantalla.
+Pudimos realizar el identity mapping de los primeros 4Mib, y las funciones de paginación anduvieron al principio con test pequeños pero más adelante a la hora de el funcionamiento con las tareas, se rompian. Las revisamos mucho pero no logramos comprender por qué.
+Está la lógica en C del juego y pudimos inicializar la pantalla.

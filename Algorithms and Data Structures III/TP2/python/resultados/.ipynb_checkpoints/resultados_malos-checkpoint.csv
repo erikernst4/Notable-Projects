@@ -1,0 +1,193 @@
+dataset,n,m,metodo,obtenido,optimo,esperado,tiempo,k
+malo-agm-vec,4,6,AGM,103.0,103,6,0.016043,"instancias/malo-agm-vec/MALO-AGM-VEC-(4, 100).txt"
+malo-agm-vec,5,10,AGM,104.0,104,7,0.019981,"instancias/malo-agm-vec/MALO-AGM-VEC-(5, 100).txt"
+malo-agm-vec,6,15,AGM,105.0,105,8,0.019241,"instancias/malo-agm-vec/MALO-AGM-VEC-(6, 100).txt"
+malo-agm-vec,7,21,AGM,106.0,106,9,0.02323,"instancias/malo-agm-vec/MALO-AGM-VEC-(7, 100).txt"
+malo-agm-vec,8,28,AGM,107.0,107,10,0.022447,"instancias/malo-agm-vec/MALO-AGM-VEC-(8, 100).txt"
+malo-agm-vec,9,36,AGM,108.0,108,11,0.024874,"instancias/malo-agm-vec/MALO-AGM-VEC-(9, 100).txt"
+malo-agm-vec,10,45,AGM,109.0,109,12,0.026529,"instancias/malo-agm-vec/MALO-AGM-VEC-(10, 100).txt"
+malo-agm-vec,11,55,AGM,110.0,110,13,0.033239,"instancias/malo-agm-vec/MALO-AGM-VEC-(11, 100).txt"
+malo-agm-vec,12,66,AGM,111.0,111,14,0.036755,"instancias/malo-agm-vec/MALO-AGM-VEC-(12, 100).txt"
+malo-agm-vec,13,78,AGM,112.0,112,15,0.043289,"instancias/malo-agm-vec/MALO-AGM-VEC-(13, 100).txt"
+malo-agm-vec,14,91,AGM,113.0,113,16,0.034459,"instancias/malo-agm-vec/MALO-AGM-VEC-(14, 100).txt"
+malo-agm-vec,15,105,AGM,114.0,114,17,0.040745,"instancias/malo-agm-vec/MALO-AGM-VEC-(15, 100).txt"
+malo-agm-vec,16,120,AGM,115.0,115,18,0.044458,"instancias/malo-agm-vec/MALO-AGM-VEC-(16, 100).txt"
+malo-agm-vec,17,136,AGM,116.0,116,19,0.043473,"instancias/malo-agm-vec/MALO-AGM-VEC-(17, 100).txt"
+malo-agm-vec,18,153,AGM,117.0,117,20,0.050241,"instancias/malo-agm-vec/MALO-AGM-VEC-(18, 100).txt"
+malo-agm-vec,19,171,AGM,118.0,118,21,0.049602,"instancias/malo-agm-vec/MALO-AGM-VEC-(19, 100).txt"
+malo-agm-vec,20,190,AGM,119.0,119,22,0.051967,"instancias/malo-agm-vec/MALO-AGM-VEC-(20, 100).txt"
+malo-agm-vec,21,210,AGM,120.0,120,23,0.056113,"instancias/malo-agm-vec/MALO-AGM-VEC-(21, 100).txt"
+malo-agm-vec,22,231,AGM,121.0,121,24,0.060398,"instancias/malo-agm-vec/MALO-AGM-VEC-(22, 100).txt"
+malo-agm-vec,23,253,AGM,122.0,122,25,0.066007,"instancias/malo-agm-vec/MALO-AGM-VEC-(23, 100).txt"
+malo-agm-vec,24,276,AGM,123.0,123,26,0.065718,"instancias/malo-agm-vec/MALO-AGM-VEC-(24, 100).txt"
+malo-agm-vec,25,300,AGM,124.0,124,27,0.068374,"instancias/malo-agm-vec/MALO-AGM-VEC-(25, 100).txt"
+malo-agm-vec,26,325,AGM,125.0,125,28,0.086092,"instancias/malo-agm-vec/MALO-AGM-VEC-(26, 100).txt"
+malo-agm-vec,27,351,AGM,126.0,126,29,0.077567,"instancias/malo-agm-vec/MALO-AGM-VEC-(27, 100).txt"
+malo-agm-vec,28,378,AGM,127.0,127,30,0.084131,"instancias/malo-agm-vec/MALO-AGM-VEC-(28, 100).txt"
+malo-agm-vec,29,406,AGM,128.0,128,31,0.088343,"instancias/malo-agm-vec/MALO-AGM-VEC-(29, 100).txt"
+malo-agm-vec,30,435,AGM,129.0,129,32,0.092529,"instancias/malo-agm-vec/MALO-AGM-VEC-(30, 100).txt"
+malo-agm-vec,31,465,AGM,130.0,130,33,0.091794,"instancias/malo-agm-vec/MALO-AGM-VEC-(31, 100).txt"
+malo-agm-vec,32,496,AGM,131.0,131,34,0.107578,"instancias/malo-agm-vec/MALO-AGM-VEC-(32, 100).txt"
+malo-agm-vec,33,528,AGM,132.0,132,35,0.122793,"instancias/malo-agm-vec/MALO-AGM-VEC-(33, 100).txt"
+malo-agm-vec,34,561,AGM,133.0,133,36,0.104764,"instancias/malo-agm-vec/MALO-AGM-VEC-(34, 100).txt"
+malo-agm-vec,35,595,AGM,134.0,134,37,0.116539,"instancias/malo-agm-vec/MALO-AGM-VEC-(35, 100).txt"
+malo-agm-vec,36,630,AGM,135.0,135,38,0.131492,"instancias/malo-agm-vec/MALO-AGM-VEC-(36, 100).txt"
+malo-agm-vec,37,666,AGM,136.0,136,39,0.121912,"instancias/malo-agm-vec/MALO-AGM-VEC-(37, 100).txt"
+malo-agm-vec,38,703,AGM,137.0,137,40,0.129382,"instancias/malo-agm-vec/MALO-AGM-VEC-(38, 100).txt"
+malo-agm-vec,39,741,AGM,138.0,138,41,0.172771,"instancias/malo-agm-vec/MALO-AGM-VEC-(39, 100).txt"
+malo-agm-vec,40,780,AGM,139.0,139,42,0.157607,"instancias/malo-agm-vec/MALO-AGM-VEC-(40, 100).txt"
+malo-agm-vec,41,820,AGM,140.0,140,43,0.164914,"instancias/malo-agm-vec/MALO-AGM-VEC-(41, 100).txt"
+malo-agm-vec,42,861,AGM,141.0,141,44,0.150463,"instancias/malo-agm-vec/MALO-AGM-VEC-(42, 100).txt"
+malo-agm-vec,43,903,AGM,142.0,142,45,0.159954,"instancias/malo-agm-vec/MALO-AGM-VEC-(43, 100).txt"
+malo-agm-vec,44,946,AGM,143.0,143,46,0.168154,"instancias/malo-agm-vec/MALO-AGM-VEC-(44, 100).txt"
+malo-agm-vec,45,990,AGM,144.0,144,47,0.198744,"instancias/malo-agm-vec/MALO-AGM-VEC-(45, 100).txt"
+malo-agm-vec,46,1035,AGM,145.0,145,48,0.214601,"instancias/malo-agm-vec/MALO-AGM-VEC-(46, 100).txt"
+malo-agm-vec,47,1081,AGM,146.0,146,49,0.231258,"instancias/malo-agm-vec/MALO-AGM-VEC-(47, 100).txt"
+malo-agm-vec,48,1128,AGM,147.0,147,50,0.290099,"instancias/malo-agm-vec/MALO-AGM-VEC-(48, 100).txt"
+malo-agm-vec,49,1176,AGM,148.0,148,51,0.190989,"instancias/malo-agm-vec/MALO-AGM-VEC-(49, 100).txt"
+malo-agm-vec,50,1225,AGM,149.0,149,52,0.228392,"instancias/malo-agm-vec/MALO-AGM-VEC-(50, 100).txt"
+malo-agm-vec,51,1275,AGM,150.0,150,53,0.213573,"instancias/malo-agm-vec/MALO-AGM-VEC-(51, 100).txt"
+malo-agm-vec,52,1326,AGM,151.0,151,54,0.220331,"instancias/malo-agm-vec/MALO-AGM-VEC-(52, 100).txt"
+malo-agm-vec,53,1378,AGM,152.0,152,55,0.22923,"instancias/malo-agm-vec/MALO-AGM-VEC-(53, 100).txt"
+malo-agm-vec,54,1431,AGM,153.0,153,56,0.30868,"instancias/malo-agm-vec/MALO-AGM-VEC-(54, 100).txt"
+malo-agm-vec,55,1485,AGM,154.0,154,57,0.238173,"instancias/malo-agm-vec/MALO-AGM-VEC-(55, 100).txt"
+malo-agm-vec,56,1540,AGM,155.0,155,58,0.277021,"instancias/malo-agm-vec/MALO-AGM-VEC-(56, 100).txt"
+malo-agm-vec,57,1596,AGM,156.0,156,59,0.270144,"instancias/malo-agm-vec/MALO-AGM-VEC-(57, 100).txt"
+malo-agm-vec,58,1653,AGM,157.0,157,60,0.274088,"instancias/malo-agm-vec/MALO-AGM-VEC-(58, 100).txt"
+malo-agm-vec,59,1711,AGM,158.0,158,61,0.276415,"instancias/malo-agm-vec/MALO-AGM-VEC-(59, 100).txt"
+malo-agm-vec,60,1770,AGM,159.0,159,62,0.27237,"instancias/malo-agm-vec/MALO-AGM-VEC-(60, 100).txt"
+malo-agm-vec,61,1830,AGM,160.0,160,63,0.380697,"instancias/malo-agm-vec/MALO-AGM-VEC-(61, 100).txt"
+malo-agm-vec,62,1891,AGM,161.0,161,64,0.327185,"instancias/malo-agm-vec/MALO-AGM-VEC-(62, 100).txt"
+malo-agm-vec,63,1953,AGM,162.0,162,65,0.410444,"instancias/malo-agm-vec/MALO-AGM-VEC-(63, 100).txt"
+malo-agm-vec,64,2016,AGM,163.0,163,66,0.396561,"instancias/malo-agm-vec/MALO-AGM-VEC-(64, 100).txt"
+malo-agm-vec,65,2080,AGM,164.0,164,67,0.371282,"instancias/malo-agm-vec/MALO-AGM-VEC-(65, 100).txt"
+malo-agm-vec,66,2145,AGM,165.0,165,68,0.370277,"instancias/malo-agm-vec/MALO-AGM-VEC-(66, 100).txt"
+malo-agm-vec,67,2211,AGM,166.0,166,69,0.3494,"instancias/malo-agm-vec/MALO-AGM-VEC-(67, 100).txt"
+malo-agm-vec,68,2278,AGM,167.0,167,70,0.358323,"instancias/malo-agm-vec/MALO-AGM-VEC-(68, 100).txt"
+malo-agm-vec,69,2346,AGM,168.0,168,71,0.46055,"instancias/malo-agm-vec/MALO-AGM-VEC-(69, 100).txt"
+malo-agm-vec,70,2415,AGM,169.0,169,72,0.373884,"instancias/malo-agm-vec/MALO-AGM-VEC-(70, 100).txt"
+malo-agm-vec,71,2485,AGM,170.0,170,73,0.397095,"instancias/malo-agm-vec/MALO-AGM-VEC-(71, 100).txt"
+malo-agm-vec,72,2556,AGM,171.0,171,74,0.389989,"instancias/malo-agm-vec/MALO-AGM-VEC-(72, 100).txt"
+malo-agm-vec,73,2628,AGM,172.0,172,75,0.387154,"instancias/malo-agm-vec/MALO-AGM-VEC-(73, 100).txt"
+malo-agm-vec,74,2701,AGM,173.0,173,76,0.403523,"instancias/malo-agm-vec/MALO-AGM-VEC-(74, 100).txt"
+malo-agm-vec,75,2775,AGM,174.0,174,77,0.551649,"instancias/malo-agm-vec/MALO-AGM-VEC-(75, 100).txt"
+malo-agm-vec,76,2850,AGM,175.0,175,78,0.413711,"instancias/malo-agm-vec/MALO-AGM-VEC-(76, 100).txt"
+malo-agm-vec,77,2926,AGM,176.0,176,79,0.446027,"instancias/malo-agm-vec/MALO-AGM-VEC-(77, 100).txt"
+malo-agm-vec,78,3003,AGM,177.0,177,80,0.479693,"instancias/malo-agm-vec/MALO-AGM-VEC-(78, 100).txt"
+malo-agm-vec,79,3081,AGM,178.0,178,81,0.463108,"instancias/malo-agm-vec/MALO-AGM-VEC-(79, 100).txt"
+malo-agm-vec,80,3160,AGM,179.0,179,82,0.585046,"instancias/malo-agm-vec/MALO-AGM-VEC-(80, 100).txt"
+malo-agm-vec,81,3240,AGM,180.0,180,83,0.536718,"instancias/malo-agm-vec/MALO-AGM-VEC-(81, 100).txt"
+malo-agm-vec,82,3321,AGM,181.0,181,84,0.695024,"instancias/malo-agm-vec/MALO-AGM-VEC-(82, 100).txt"
+malo-agm-vec,83,3403,AGM,182.0,182,85,0.49519,"instancias/malo-agm-vec/MALO-AGM-VEC-(83, 100).txt"
+malo-agm-vec,84,3486,AGM,183.0,183,86,0.497769,"instancias/malo-agm-vec/MALO-AGM-VEC-(84, 100).txt"
+malo-agm-vec,85,3570,AGM,184.0,184,87,0.517734,"instancias/malo-agm-vec/MALO-AGM-VEC-(85, 100).txt"
+malo-agm-vec,86,3655,AGM,185.0,185,88,0.700894,"instancias/malo-agm-vec/MALO-AGM-VEC-(86, 100).txt"
+malo-agm-vec,87,3741,AGM,186.0,186,89,0.560513,"instancias/malo-agm-vec/MALO-AGM-VEC-(87, 100).txt"
+malo-agm-vec,88,3828,AGM,187.0,187,90,0.54005,"instancias/malo-agm-vec/MALO-AGM-VEC-(88, 100).txt"
+malo-agm-vec,89,3916,AGM,188.0,188,91,0.712626,"instancias/malo-agm-vec/MALO-AGM-VEC-(89, 100).txt"
+malo-agm-vec,90,4005,AGM,189.0,189,92,0.575603,"instancias/malo-agm-vec/MALO-AGM-VEC-(90, 100).txt"
+malo-agm-vec,91,4095,AGM,190.0,190,93,0.605213,"instancias/malo-agm-vec/MALO-AGM-VEC-(91, 100).txt"
+malo-agm-vec,92,4186,AGM,191.0,191,94,0.591052,"instancias/malo-agm-vec/MALO-AGM-VEC-(92, 100).txt"
+malo-agm-vec,93,4278,AGM,192.0,192,95,0.594322,"instancias/malo-agm-vec/MALO-AGM-VEC-(93, 100).txt"
+malo-agm-vec,94,4371,AGM,193.0,193,96,0.625795,"instancias/malo-agm-vec/MALO-AGM-VEC-(94, 100).txt"
+malo-agm-vec,95,4465,AGM,194.0,194,97,0.797714,"instancias/malo-agm-vec/MALO-AGM-VEC-(95, 100).txt"
+malo-agm-vec,96,4560,AGM,195.0,195,98,0.650561,"instancias/malo-agm-vec/MALO-AGM-VEC-(96, 100).txt"
+malo-agm-vec,97,4656,AGM,196.0,196,99,0.688462,"instancias/malo-agm-vec/MALO-AGM-VEC-(97, 100).txt"
+malo-agm-vec,98,4753,AGM,197.0,197,100,0.778505,"instancias/malo-agm-vec/MALO-AGM-VEC-(98, 100).txt"
+malo-agm-vec,99,4851,AGM,198.0,198,101,0.67985,"instancias/malo-agm-vec/MALO-AGM-VEC-(99, 100).txt"
+malo-agm-vec,4,6,VEC,103.0,6,103,0.013066,100
+malo-agm-vec,5,10,VEC,104.0,7,104,0.018593,100
+malo-agm-vec,6,15,VEC,105.0,8,105,0.015986,100
+malo-agm-vec,7,21,VEC,106.0,9,106,0.020575,100
+malo-agm-vec,8,28,VEC,107.0,10,107,0.019153,100
+malo-agm-vec,9,36,VEC,108.0,11,108,0.027855,100
+malo-agm-vec,10,45,VEC,109.0,12,109,0.02437,100
+malo-agm-vec,11,55,VEC,110.0,13,110,0.0257,100
+malo-agm-vec,12,66,VEC,111.0,14,111,0.030809,100
+malo-agm-vec,13,78,VEC,112.0,15,112,0.034143,100
+malo-agm-vec,14,91,VEC,113.0,16,113,0.028511,100
+malo-agm-vec,15,105,VEC,114.0,17,114,0.033227,100
+malo-agm-vec,16,120,VEC,115.0,18,115,0.034739,100
+malo-agm-vec,17,136,VEC,116.0,19,116,0.030039,100
+malo-agm-vec,18,153,VEC,117.0,20,117,0.03493,100
+malo-agm-vec,19,171,VEC,118.0,21,118,0.042599,100
+malo-agm-vec,20,190,VEC,119.0,22,119,0.042233,100
+malo-agm-vec,21,210,VEC,120.0,23,120,0.04772,100
+malo-agm-vec,22,231,VEC,121.0,24,121,0.046836,100
+malo-agm-vec,23,253,VEC,122.0,25,122,0.043811,100
+malo-agm-vec,24,276,VEC,123.0,26,123,0.043081,100
+malo-agm-vec,25,300,VEC,124.0,27,124,0.046303,100
+malo-agm-vec,26,325,VEC,125.0,28,125,0.05422,100
+malo-agm-vec,27,351,VEC,126.0,29,126,0.057728,100
+malo-agm-vec,28,378,VEC,127.0,30,127,0.052549,100
+malo-agm-vec,29,406,VEC,128.0,31,128,0.0502,100
+malo-agm-vec,30,435,VEC,129.0,32,129,0.06274,100
+malo-agm-vec,31,465,VEC,130.0,33,130,0.07957,100
+malo-agm-vec,32,496,VEC,131.0,34,131,0.061261,100
+malo-agm-vec,33,528,VEC,132.0,35,132,0.061964,100
+malo-agm-vec,34,561,VEC,133.0,36,133,0.064017,100
+malo-agm-vec,35,595,VEC,134.0,37,134,0.066519,100
+malo-agm-vec,36,630,VEC,135.0,38,135,0.07855,100
+malo-agm-vec,37,666,VEC,136.0,39,136,0.07985,100
+malo-agm-vec,38,703,VEC,137.0,40,137,0.071145,100
+malo-agm-vec,39,741,VEC,138.0,41,138,0.081333,100
+malo-agm-vec,40,780,VEC,139.0,42,139,0.077606,100
+malo-agm-vec,41,820,VEC,140.0,43,140,0.092008,100
+malo-agm-vec,42,861,VEC,141.0,44,141,0.096,100
+malo-agm-vec,43,903,VEC,142.0,45,142,0.081119,100
+malo-agm-vec,44,946,VEC,143.0,46,143,0.085699,100
+malo-agm-vec,45,990,VEC,144.0,47,144,0.084743,100
+malo-agm-vec,46,1035,VEC,145.0,48,145,0.091308,100
+malo-agm-vec,47,1081,VEC,146.0,49,146,0.10574,100
+malo-agm-vec,48,1128,VEC,147.0,50,147,0.099268,100
+malo-agm-vec,49,1176,VEC,148.0,51,148,0.114516,100
+malo-agm-vec,50,1225,VEC,149.0,52,149,0.101579,100
+malo-agm-vec,51,1275,VEC,150.0,53,150,0.112312,100
+malo-agm-vec,52,1326,VEC,151.0,54,151,0.105237,100
+malo-agm-vec,53,1378,VEC,152.0,55,152,0.134022,100
+malo-agm-vec,54,1431,VEC,153.0,56,153,0.128098,100
+malo-agm-vec,55,1485,VEC,154.0,57,154,0.104585,100
+malo-agm-vec,56,1540,VEC,155.0,58,155,0.132639,100
+malo-agm-vec,57,1596,VEC,156.0,59,156,0.111337,100
+malo-agm-vec,58,1653,VEC,157.0,60,157,0.139165,100
+malo-agm-vec,59,1711,VEC,158.0,61,158,0.118462,100
+malo-agm-vec,60,1770,VEC,159.0,62,159,0.145153,100
+malo-agm-vec,61,1830,VEC,160.0,63,160,0.119613,100
+malo-agm-vec,62,1891,VEC,161.0,64,161,0.126857,100
+malo-agm-vec,63,1953,VEC,162.0,65,162,0.141123,100
+malo-agm-vec,64,2016,VEC,163.0,66,163,0.158526,100
+malo-agm-vec,65,2080,VEC,164.0,67,164,0.162014,100
+malo-agm-vec,66,2145,VEC,165.0,68,165,0.142507,100
+malo-agm-vec,67,2211,VEC,166.0,69,166,0.155882,100
+malo-agm-vec,68,2278,VEC,167.0,70,167,0.149506,100
+malo-agm-vec,69,2346,VEC,168.0,71,168,0.152719,100
+malo-agm-vec,70,2415,VEC,169.0,72,169,0.153351,100
+malo-agm-vec,71,2485,VEC,170.0,73,170,0.163981,100
+malo-agm-vec,72,2556,VEC,171.0,74,171,0.190501,100
+malo-agm-vec,73,2628,VEC,172.0,75,172,0.145761,100
+malo-agm-vec,74,2701,VEC,173.0,76,173,0.146999,100
+malo-agm-vec,75,2775,VEC,174.0,77,174,0.16847,100
+malo-agm-vec,76,2850,VEC,175.0,78,175,0.170382,100
+malo-agm-vec,77,2926,VEC,176.0,79,176,0.196291,100
+malo-agm-vec,78,3003,VEC,177.0,80,177,0.176665,100
+malo-agm-vec,79,3081,VEC,178.0,81,178,0.184885,100
+malo-agm-vec,80,3160,VEC,179.0,82,179,0.162014,100
+malo-agm-vec,81,3240,VEC,180.0,83,180,0.167717,100
+malo-agm-vec,82,3321,VEC,181.0,84,181,0.167855,100
+malo-agm-vec,83,3403,VEC,182.0,85,182,0.194293,100
+malo-agm-vec,84,3486,VEC,183.0,86,183,0.202036,100
+malo-agm-vec,85,3570,VEC,184.0,87,184,0.199221,100
+malo-agm-vec,86,3655,VEC,185.0,88,185,0.187173,100
+malo-agm-vec,87,3741,VEC,186.0,89,186,0.21043,100
+malo-agm-vec,88,3828,VEC,187.0,90,187,0.193531,100
+malo-agm-vec,89,3916,VEC,188.0,91,188,0.223781,100
+malo-agm-vec,90,4005,VEC,189.0,92,189,0.216107,100
+malo-agm-vec,91,4095,VEC,190.0,93,190,0.226145,100
+malo-agm-vec,92,4186,VEC,191.0,94,191,0.213988,100
+malo-agm-vec,93,4278,VEC,192.0,95,192,0.220365,100
+malo-agm-vec,94,4371,VEC,193.0,96,193,0.221857,100
+malo-agm-vec,95,4465,VEC,194.0,97,194,0.228415,100
+malo-agm-vec,96,4560,VEC,195.0,98,195,0.224381,100
+malo-agm-vec,97,4656,VEC,196.0,99,196,0.253584,100
+malo-agm-vec,98,4753,VEC,197.0,100,197,0.283879,100
+malo-agm-vec,99,4851,VEC,198.0,101,198,0.243021,100
